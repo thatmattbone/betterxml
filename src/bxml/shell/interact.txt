@@ -1,0 +1,13 @@
+define_ns ns1=urn:ns1
+set_ns ns1
+element testing
+push_context
+document
+attribute a1=my text
+attribute a2=more text
+element nested
+attribute n1=nested 1
+attribute n2=nested 2
+append
+xml
+quit

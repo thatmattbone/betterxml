@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<x xmlns="http://www.cs.luc.edu">
+   <y y1="abc"/>
+   <y y1="def"/>
+   <y y1="ghi">
+      Here is some CDATA
+   </y>
+</x>

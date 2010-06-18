@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<html xmlns="http://www.w3.org/TR/xhtml1/">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link title="new" rel="stylesheet" href="/css/main.css" type="text/css"/>
+<link REL="shortcut icon" HREF="/favicon.ico" TYPE="image/x-icon"/>
+<link rel="search" type="application/opensearchdescription+xml" href="http://www.gentoo.org/search/www-gentoo-org.xml" title="Gentoo Website"/>
+<link rel="search" type="application/opensearchdescription+xml" href="http://www.gentoo.org/search/forums-gentoo-org.xml" title="Gentoo Forums"/>
+<link rel="search" type="application/opensearchdescription+xml" href="http://www.gentoo.org/search/bugs-gentoo-org.xml" title="Gentoo Bugzilla"/>
+<link rel="search" type="application/opensearchdescription+xml" href="http://www.gentoo.org/search/packages-gentoo-org.xml" title="Gentoo Packages"/>
+<link rel="alternate" type="application/rss+xml" title="Gentoo Linux News RDF" href="http://www.gentoo.org/rdf/en/gentoo-news.rdf"/>
+<title>
+        Gentoo Linux -- Gentoo Linux News</title>
+</head>
+<body style="margin:0px;" bgcolor="#000000"><table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" height="125" width="1%" bgcolor="#45347b"><a href="/"><img border="0" src="/images/gtop-www.jpg" alt="Gentoo Logo"/></a></td>
+
+<td valign="bottom" align="left" bgcolor="#000000" colspan="2" lang="en"><p class="menu"><a class="menulink" href="/main/en/about.xml">About</a>
+        |
+        <a class="menulink" href="/proj/en/index.xml?showlevel=1">Projects</a>
+        |
+        <a class="menulink" href="/doc/en/index.xml">Docs</a>
+        | <a class="menulink" href="http://forums.gentoo.org">Forums</a>
+        |
+        <a class="menulink" href="/main/en/lists.xml">Lists</a>
+
+        | <a class="menulink" href="http://bugs.gentoo.org">Bugs</a>
+        | <a class="menulink" href="http://www.cafepress.com/officialgentoo/">Store</a>
+        |
+        <a class="menulink" href="/news/en/gwn/gwn.xml"> GWN</a>
+        |
+        <a class="menulink" href="/main/en/where.xml">Get Gentoo!</a>
+
+        |
+        <a class="menulink" href="/main/en/support.xml">Support</a>
+        |
+        <a class="menulink" href="/main/en/sponsors.xml">Sponsors</a>
+        | <a class="menulink" href="http://planet.gentoo.org">Planet</a>
+        |
+        <a class="menulink" href="/main/en/contact.xml">Contact</a></p></td>
+</tr>
+
+<tr>
+<td valign="top" align="right" width="1%" bgcolor="#dddaec"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr><td height="1%" valign="top" align="right"><img src="/images/gridtest.gif" alt="Gentoo Spaceship"/></td></tr>
+<tr><td height="99%" valign="top" align="left"><table cellspacing="0" cellpadding="5" border="0"><tr><td valign="top" class="leftmenu" lang="en">
+<p class="altmenu">
+                    Installation:
+                    <br/><a class="altlink" href="/doc/en/handbook/index.xml">Gentoo Handbook</a><br/><a class="altlink" href="/doc/en/index.xml?catid=install#doc_chap2">Installation Docs</a><br/><br/>
+                    Documentation:
+                    <br/><a class="altlink" href="/doc/en/">Home</a><br/><a class="altlink" href="/doc/en/list.xml">Listing</a><br/><a class="altlink" href="/main/en/about.xml">About Gentoo</a><br/><a class="altlink" href="/main/en/philosophy.xml">Philosophy</a><br/><a class="altlink" href="/main/en/contract.xml">Social Contract</a><br/><br/>
+
+                    Resources:
+                    <br/><a class="altlink" href="http://bugs.gentoo.org">Bug Tracker</a><br/><a class="altlink" href="/proj/en/devrel/roll-call/userinfo.xml">Developer List</a><br/><a class="altlink" href="http://forums.gentoo.org">Discussion Forums</a><br/><a class="altlink" href="http://torrents.gentoo.org/">Gentoo BitTorrents</a><br/><a class="altlink" href="/proj/en/glep/">Gentoo Linux Enhancement Proposals</a><br/><a class="altlink" href="/main/en/irc.xml">IRC Channels</a><br/><a class="altlink" href="/main/en/lists.xml">Mailing Lists</a><br/><a class="altlink" href="/main/en/mirrors.xml">Mirrors</a><br/><a class="altlink" href="/main/en/name-logo.xml">Name and Logo Guidelines</a><br/><a class="altlink" href="http://packages.gentoo.org/">Online Package Database</a><br/><a class="altlink" href="/security/en/index.xml">Security Announcements</a><br/><a class="altlink" href="/proj/en/devrel/staffing-needs/">Staffing Needs</a><br/><a class="altlink" href="http://vendors.gentoo.org/">Supporting Vendors</a><br/><a class="altlink" href="http://sources.gentoo.org/">View our CVS</a><br/><br/>
+
+                    Graphics:
+                    <br/><a class="altlink" href="/main/en/graphics.xml">Logos and themes</a><br/><a class="altlink" href="/main/en/shots.xml">ScreenShots</a><br/><br/>
+                    Miscellaneous Resources:
+                    <br/><a class="altlink" href="http://www.cafepress.com/officialgentoo/">Gentoo Linux Store</a><br/><a class="altlink" href="/main/en/projects.xml">Gentoo-hosted projects</a><br/><a class="altlink" href="/doc/en/articles/">IBM dW/Intel article archive</a></p>
+<br/><br/>
+</td></tr></table></td></tr>
+</table></td>
+<td valign="top" bgcolor="#ffffff">
+<p class="news"><img class="newsicon" src="/images/gentoo-new.gif" alt="Gentoo logo"/><span class="newsitem" lang="en">We produce Gentoo Linux, a special flavor of Linux that
+                can be automatically optimized and customized for just
+                about any application or need. Extreme performance,
+                configurability and a top-notch user and developer
+                community are all hallmarks of the Gentoo experience.
+                To learn more, read our <b><a href="/main/en/about.xml">about
+                page</a></b>.</span></p>
+
+<div class="news">
+<p class="newshead" lang="en"><b>Gentoo Weekly Newsletter -- 5 March 2007</b><br/><font size="0.90em">
+      Posted on March 5, 2007
+      by Chris Gianelloni</font></p>
+<img class="newsicon" src="/images/icon-penguin.png" alt="tux"/><div class="newsitem">
+
+
+<p>
+<b>Opengear donates two CM4008, Xfce becomes an official project and more in
+this week's <a href="/news/en/gwn/20070305-newsletter.xml">Gentoo Weekly
+Newsletter</a>.</b> Coverage from FOSDEM, Chemnitzer Linux-Tage, and 
+Linuxforum 07 events, as well as an interview with Gentoo developer <a href="mailto:nightmorph@gentoo.org">Joshua Saddler</a>. Also in this issue are the
+usual security, bugs, and packages updates.
+
+</p>
+
+</div>
+</div>
+<div class="news">
+<p class="newshead" lang="en"><b>Gentoo Weekly Newsletter -- 26 February 2007</b><br/><font size="0.90em">
+      Posted on February 26, 2007
+      by Chris Gianelloni</font></p>
+<img class="newsicon" src="/images/icon-penguin.png" alt="tux"/><div class="newsitem">
+
+
+<p>
+<b>The GWN staff are seeking contributors, summaries from the gentoo-dev mailing
+list, and more in this week's <a href="/news/en/gwn/20070226-newsletter.xml">Gentoo Weekly Newsletter</a>.</b>
+
+Also in this issue, Gentoo in the press and the usual security, bugs, and
+packages updates.
+</p>
+
+</div>
+</div>
+<div class="news">
+<p class="newshead" lang="en"><b>Gentoo Weekly Newsletter -- 19 February 2007</b><br/><font size="0.90em">
+      Posted on February 19, 2007
+      by Chris Gianelloni</font></p>
+<img class="newsicon" src="/images/icon-penguin.png" alt="tux"/><div class="newsitem">
+
+
+<p>
+<b>Upcoming changes to the ALSA packages and more in this week's <a href="/news/en/gwn/20070219-newsletter.xml">Gentoo Weekly
+Newsletter</a>.</b> Also in this issue, Gentoo in the press and the usual
+security, bugs, and packages updates.
+
+</p>
+
+</div>
+</div>
+<div class="news">
+<p class="newshead" lang="en"><b>Gentoo Weekly Newsletter -- 12 February 2007</b><br/><font size="0.90em">
+      Posted on February 12, 2007
+      by Chris Gianelloni</font></p>
+<img class="newsicon" src="/images/icon-penguin.png" alt="tux"/><div class="newsitem">
+
+
+<p>
+<b>Important time zone update information, testing wanted for new freetype
+versions, some problems with NSS/NSPR, a thank you from the KDE team and more
+in this week's <a href="/news/en/gwn/20070212-newsletter.xml">Gentoo Weekly
+Newsletter</a>.</b> Don't miss a special thanks from the KDE team.
+
+</p>
+
+</div>
+</div>
+<div class="news">
+<p class="newshead" lang="en"><b>Gentoo Weekly Newsletter -- 5 February 2007</b><br/><font size="0.90em">
+      Posted on February 5, 2007
+      by Chris Gianelloni</font></p>
+<img class="newsicon" src="/images/icon-penguin.png" alt="tux"/><div class="newsitem">
+
+
+<p>
+<b>The KDE team is seeking your help, information about the upcoming removal of
+mail-mta/qmail and more in this week's <a href="/news/en/gwn/20070205-newsletter.xml">Gentoo Weekly Newsletter</a>.</b>
+
+Also in this week's GWN is the usual security, bugs, package updates, and
+summaries from the community. Don't miss the interview with <a href="mailto:zzam@gentoo.org">Matthias Schwarzott</a>.
+</p>
+
+</div>
+</div>
+<div class="news">
+<p class="newshead" lang="en"><b>Gentoo Weekly Newsletter -- 29 January 2007</b><br/><font size="0.90em">
+      Posted on January 29, 2007
+      by Chris Gianelloni</font></p>
+<img class="newsicon" src="/images/icon-penguin.png" alt="tux"/><div class="newsitem">
+
+
+<p>
+
+<b>The long awaited Xfce 4.4 has been released and the Gentoo Forum Netherlands
+celebrates its second anniversary in this week's <a href="/news/en/gwn/20070129-newsletter.xml">Gentoo Weekly Newsletter</a>.</b>
+Also in this week's GWN is the usual security, bugs, and package updates and
+summaries from the community.
+</p>
+
+</div>
+</div>
+<div class="news">
+<p class="newshead" lang="en"><b>Older News</b></p>
+<ul>
+<li><b><a class="altlink" href="/news/20070122-gwn.xml">Gentoo Weekly Newsletter -- 22 January 2007</a></b></li>
+<li><b><a class="altlink" href="/news/20070115-gwn.xml">Gentoo Weekly Newsletter -- 15 January 2007</a></b></li>
+
+<li><b><a class="altlink" href="/news/20070108-gwn.xml">Gentoo Weekly Newsletter -- 8 January 2007</a></b></li>
+<li><b><a class="altlink" href="/news/20070101-gwn.xml">Gentoo Weekly Newsletter -- 1 January 2007</a></b></li>
+<li><b><a class="altlink" href="/news/20061225-gwn.xml">Gentoo Weekly Newsletter -- 25 December 2006</a></b></li>
+<li><b><a class="altlink" href="/news/20061218-gwn.xml">Gentoo Weekly Newsletter -- 18 December 2006</a></b></li>
+<li><b><a class="altlink" href="/news/20061211-gwn.xml">Gentoo Weekly Newsletter -- 11 December 2006</a></b></li>
+<li><b><a class="altlink" href="/news/20061204-gwn.xml">Gentoo Weekly Newsletter -- 4 December 2006</a></b></li>
+<li><b><a class="altlink" href="/news/20061127-gwn.xml">Gentoo Weekly Newsletter -- 27 November 2006</a></b></li>
+<li><b><a class="altlink" href="/news/20061120-gwn.xml">Gentoo Weekly Newsletter -- 20 November 2006</a></b></li>
+<li><b><a class="altlink" href="/news/20061113-gwn.xml">Gentoo Weekly Newsletter -- 13 November 2006</a></b></li>
+
+<li><b><a class="altlink" href="/news/20061106-gwn.xml">Gentoo Weekly Newsletter -- 6 November 2006</a></b></li>
+<li><b><a class="altlink" href="/news/20061030-gwn.xml">Gentoo Weekly Newsletter -- 30 October 2006</a></b></li>
+<li><b><a class="altlink" href="/news/20061023-gwn.xml">Gentoo Weekly Newsletter -- 23 October 2006</a></b></li>
+<li><b><a class="altlink" href="/news/20061016-gwn.xml">Gentoo Weekly Newsletter -- 16 October 2006</a></b></li>
+<li><b><a class="altlink" href="/news/20061009-gwn.xml">Gentoo Weekly Newsletter -- 9 October 2006</a></b></li>
+<li><b><a class="altlink" href="/news/20061002-gwn.xml">Gentoo Weekly Newsletter -- 2 October 2006</a></b></li>
+<li><b><a class="altlink" href="/news/20060925-gwn.xml">Gentoo Weekly Newsletter -- 25 September 2006</a></b></li>
+<li><b><a class="altlink" href="/news/20060918-gwn.xml">Gentoo Weekly Newsletter -- 18 September 2006</a></b></li>
+</ul>
+
+</div>
+<br/><table border="0" class="content"><tr><td></td></tr></table>
+<br/><br/>
+</td>
+<td width="1%" bgcolor="#dddaec" valign="top"><table border="0" cellspacing="4px" cellpadding="4px">
+<tr lang="en"><td align="center" class="topsep">
+<p class="alttext"><b>Donate</b> to support our development efforts.
+        </p>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_xclick"/><input type="hidden" name="business" value="paypal@gentoo.org"/><input type="hidden" name="item_name" value="Gentoo Linux Support"/><input type="hidden" name="item_number" value="1000"/><input type="hidden" name="image_url" value="/images/paypal.png"/><input type="hidden" name="no_shipping" value="1"/><input type="hidden" name="return" value="http://www.gentoo.org"/><input type="hidden" name="cancel_return" value="http://www.gentoo.org"/><input type="image" src="http://images.paypal.com/images/x-click-but21.gif" name="submit" alt="Donate to Gentoo"/>
+</form>
+</td></tr>
+<tr lang="en"><td align="center" class="topsep">
+<a href="http://www.vr.org"><img src="/images/vr-ad.png" width="125" height="144" alt="Gentoo Centric Hosting: vr.org" border="0"/></a><p class="alttext"><a href="http://www.vr.org/">VR Hosted</a></p>
+
+</td></tr>
+<tr lang="en"><td align="center" class="topsep">
+<a href="http://www.tek.net" target="_top"><img src="/images/tek-gentoo.gif" width="125" height="125" alt="Tek Alchemy" border="0"/></a><p class="alttext"><a href="http://www.tek.net/">Tek Alchemy</a></p>
+</td></tr>
+<tr lang="en"><td align="center" class="topsep">
+<a href="http://www.sevenl.net" target="_top"><img src="/images/sponsors/sevenl.gif" width="125" height="144" alt="SevenL.net" border="0"/></a><p class="alttext"><a href="http://www.sevenl.net/">SevenL.net</a></p>
+</td></tr>
+<tr lang="en"><td align="center" class="topsep">
+<a href="http://www.phparch.com/bannerclick.php?AID=68&amp;BID=1&amp;BT=127929" target="_top"><img src="/images/phpa-gentoo.gif" width="125" height="144" alt="php|architect" border="0"/></a><p class="alttext"><a href="http://www.phparch.com/bannerclick.php?AID=68&amp;BID=1&amp;BT=127929">php|architect</a></p>
+</td></tr>
+<tr><td align="center" class="topsep"></td></tr>
+</table></td>
+</tr>
+<tr lang="en"><td align="right" class="infohead" colspan="3">
+
+      Copyright 2001-2007 Gentoo Foundation, Inc.  Questions, Comments? <a class="highlight" href="/main/en/contact.xml">Contact us</a>.
+    </td></tr>
+</table></body>
+</html>

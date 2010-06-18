@@ -1,0 +1,21 @@
+This will be available through PyPI at some point, we hope.
+
+Installation is simple.
+
+1. Make sure you have Python 2.6 or higher (2.5 probably works).
+
+2. python setup.py build
+
+3. python setup.py install
+
+You don't actually need to install anything. If you want to use this stuff,
+simply run the pythonpath.sh script in the unpacked directory and source it in
+your current shell environment:
+
+1. bash pythonpath.sh > set_python_path.sh
+
+2. . ./set_python_path.sh
+
+
+
+
